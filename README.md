@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/72495167/179263906-facb98fa-4803-44f3-93e0-5ac7e947d42a.png)
 
-![image](https://user-images.githubusercontent.com/72495167/179489922-b8848093-9016-4c1f-8316-ff9467b21f54.png)
+![image](https://user-images.githubusercontent.com/72495167/179490173-00f1389c-6097-4cde-b6bf-4eb0d403b915.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
