@@ -8,8 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/72495167/179489922-b8848093-9016-4c1f-8316-ff9467b21f54.png)
 
-![image](https://user-images.githubusercontent.com/72495167/179490005-ed865f49-dc20-40f2-97f7-8ee7dae27052.png)
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
