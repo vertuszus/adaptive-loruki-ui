@@ -1,4 +1,4 @@
-# Angular LorukiSite
+# Angular Loruki UI
 
 ![image](https://user-images.githubusercontent.com/72495167/179263833-cdad5069-4b1d-4517-b1da-3b65b8ce3325.png)
 
